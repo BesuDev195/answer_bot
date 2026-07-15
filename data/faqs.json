@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Can we out from the camp before the camp program ends?",
+    "answer": "No, unless critical circumstances arise.",
+    "category": "onboarding"  
+  },
+  {
+    "question": "Is pc mandatory for the camp program?",
+    "answer": "Yes, It is!.",
+    "category": "account"
+  },
+  {
+    "question": "When the 2026 weekeend class will start?",
+    "answer": "Registration will start on August.",
+    "category": "community"
+  },
+  {
+    "question": "Can we change our place?",
+    "answer": "if u get someone who wan exchange with u, you can change your place.",
+    "category": "support"
+  },
+  {
+    "question": "is there a mobile app",
+    "answer": "Yes! Our mobile app is available on both the App Store and Google Play.",
+    "category": "product"
+  },
+  {
+    "question": "Can i change the my department after the camp program started?",
+    "answer": "Yes you can!  .",
+    "category": "billing"
+  },
+  {
+    "question":"when the summer camp will start?",
+    "answer":"The summer camp will start on June 25th(ሃምሌ 18).",
+    "category":"events"
+  },
+
+  {
+"question":"How long the summer camp last?",
+"answer":"The summer camp lasts for 1 month from ሃምሌ 18 ፟ ነሃሴ 18.Also read the blog at https://ctc.insa.gov.et/blog/1adbf05769 ",
+"category":"events"
+  }
+]
